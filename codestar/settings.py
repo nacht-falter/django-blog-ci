@@ -32,7 +32,6 @@ DEBUG = True
 
 ALLOWED_HOSTS = ['djangoblog-ci.herokuapp.com', 'http://127.0.0.1:8000']
 
-
 # Application definition
 
 INSTALLED_APPS = [
